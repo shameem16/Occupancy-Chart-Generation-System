@@ -1,0 +1,96 @@
+.container1 {
+	position: center;
+	left:500px;
+	margin-left: 300px;
+	max-width: 400px;
+	padding: 16px;
+	background-color: white;
+  }
+  .container4 {
+	position: center;
+	left:450px;
+	margin-left: 270px;
+	max-width: 450px;
+	padding: 16px;
+	background-color: white;
+  }
+
+
+
+  .container2 {
+	position: absolute;
+	right: 0;
+	margin: 20px;
+	max-width: 440px;
+	
+	padding: 16px;
+	background-color:white;
+  }
+  .number {
+	background:rgba(0, 0, 0, 0.575);
+	color: #fff;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	font-size: 0.8em;
+	margin-right: 4px;
+	line-height: 30px;
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+	border-radius: 15px 15px 15px 0px;
+}
+.form
+{
+	background-color: burlywood;
+}
+  .container3 {
+	position: center;
+	max-width: 440px;
+	right: 0;
+	margin: 20px;
+	padding: 16px;
+	background-color: white;
+  }
+  input[type=text] {
+	width: 100%;
+	padding: 10px;
+	margin: 5px 0 22px 0;
+	border: none;border-radius: 4px;
+	background: #f1f1f1;
+  }
+
+  input[type=text]:focus{
+	background-color:rgb(158, 151, 151);
+	outline: none;border-radius: 4px;
+  }
+
+  * {
+	box-sizing: border-box;
+  }
+
+
+ 
+
+
+
+ input[type="submit"]
+{
+position: relative;
+display: block;
+padding: 10px 30px 10px 30px;
+
+background:rgb(107, 180, 107);
+font-size: 18px;
+text-align: center;
+font-style: normal;
+width: 100%;
+
+border-width: 1px 1px 3px;
+border-radius:8px;
+}
+
+
+input[type="submit"]:hover
+{
+background:green;
+}
