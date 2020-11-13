@@ -1,2 +1,0 @@
-# occupy
- admin porta;
